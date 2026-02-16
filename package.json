@@ -1,0 +1,1 @@
+{\n  "name": "study-planning-api",\n  "version": "1.0.0",\n  "description": "A study planning API using Node.js and Express",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  },\n  "engines": {\n    "node": ">=14.0.0"\n  }\n}
